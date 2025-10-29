@@ -6,7 +6,7 @@
 
 ---
 
-## 🧠 Skills & Technologies
+## 🧠 Skills & Tech Stack
 
 **Languages:** C++ · Python · JavaScript · SQL  
 **Core:** Data Structures & Algorithms (DSA) · Object-Oriented Programming (OOP)  
@@ -18,7 +18,7 @@
 
 ---
 
-## 🧩 Featured Projects
+## 🧩 My Projects
 
 ### 🔹 [Movie Sentiment Analyzer](https://github.com/yourusername/movie-sentiment-analyzer)
 A Natural Language Processing project that classifies movie reviews as positive or negative using TF-IDF and Logistic Regression.  
