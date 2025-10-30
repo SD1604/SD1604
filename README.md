@@ -20,7 +20,7 @@
 
 ## 🧩 My Projects
 
-### 🔹 [Friends Script Semantic Visualizer]()
+### 🔹 [Friends Script Semantic Visualizer](https://github.com/SD1604/Friends-Show-Project)
 Analyzed and visualized the Friends TV show script dataset using Word2Vec embeddings. Applied PCA to reduce dimensions and visualized character and dialogue relationships in 3D space to explore semantic similarity.  
 **Tech Stack:** Python · NLP · Word2Vec · Gensim · PCA · Matplotlib
 
