@@ -20,15 +20,23 @@
 
 ## 🧩 My Projects
 
-### 🔹 [Movie Sentiment Analyzer](https://github.com/yourusername/movie-sentiment-analyzer)
+### 🔹 [Friends Script Semantic Visualizer]()
+Analyzed and visualized the Friends TV show script dataset using Word2Vec embeddings. Applied PCA to reduce dimensions and visualized character and dialogue relationships in 3D space to explore semantic similarity.  
+**Tech Stack:** Python · NLP · Word2Vec · Gensim · PCA · Matplotlib
+
+### 🔹 [MNIST Image Classifier]()
+Built and trained a neural network on the MNIST handwritten digits dataset for image classification, achieving high accuracy through data normalization and model tuning.  
+**Tech Stack:** Python · TensorFlow · Keras · Deep Learning
+
+### 🔹 [Movie Sentiment Analyzer]()
 A Natural Language Processing project that classifies movie reviews as positive or negative using TF-IDF and Logistic Regression.  
 **Tech Stack:** Python · Scikit-learn · NLP · Pandas
 
-### 🔹 [Personal Portfolio Website](https://github.com/yourusername/portfolio)
+### 🔹 [Personal Portfolio Website]()
 Responsive and modern portfolio website built with React and Tailwind CSS.  
 **Tech Stack:** React · Tailwind CSS · JavaScript
 
-### 🔹 [DSA Practice Repository](https://github.com/yourusername/dsa-practice)
+### 🔹 [DSA Practice Repository]()
 Collection of 300+ solved DSA problems from LeetCode, GFG, and Striver’s sheet with explanations.  
 **Tech Stack:** C++ · Problem Solving · Algorithms
 
