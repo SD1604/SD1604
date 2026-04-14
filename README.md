@@ -1,78 +1,50 @@
-# 👋 Ahoy! I'm Sushant Duggal
+# Hi, I'm Sushant Duggal 👋
 
-🎓 **B.Sc. Computer Science Student @ Kirori Mal College (2026), University of Delhi**  
-💻 Aspiring **Software Engineer** | Passionate about **Machine Learning, NLP, and Generative AI**  
-🚀 Actively exploring **system design, backend engineering, and scalable AI systems**
+B.Sc. Computer Science @ Kirori Mal College, University of Delhi (2026)  
+I build things with Python and JavaScript — currently focused on ML, NLP, and web development.
 
 ---
 
-## 🧠 Skills & Tech Stack
+## Tech Stack
 
 **Languages:** C++ · Python · JavaScript · SQL  
-**Core:** Data Structures & Algorithms (DSA) · Object-Oriented Programming (OOP)  
-**Machine Learning:** Supervised & Unsupervised Learning · NLP (TF-IDF, Word2Vec, HMM, Viterbi)  
-**Frameworks & Tools:** Scikit-learn · Pandas · NumPy · Matplotlib · TensorFlow (basics)  
-**Web Development:** HTML · CSS · JavaScript  
-**Version Control:** Git · GitHub  
-**Other:** Problem Solving · Software Design · Debugging
+**Machine Learning:** Scikit-learn · TensorFlow · Pandas · NumPy · Matplotlib  
+**NLP:** TF-IDF · Word2Vec · HMM · Viterbi · Gensim  
+**Web:** React · HTML · CSS  
+**Tools:** Git · GitHub · DSA · OOP
 
 ---
 
-## 🧩 My Projects
+## Projects
 
-### 🔹 [Friends Script Semantic Visualizer](https://github.com/SD1604/Friends-Show-Project)
-Analyzed and visualized the Friends TV show script dataset using Word2Vec embeddings. Applied PCA to reduce dimensions and visualized character and dialogue relationships in 3D space to explore semantic similarity.  
-**Tech Stack:** Python · NLP · Word2Vec · Gensim · PCA · Matplotlib
+**[Pathfinder Pro — Smart Route Planner](https://github.com/SD1604/Pathfinder-Pro-Smart-Route-Planner-)**  
+Smart route planner using Dijkstra's algorithm on real-world map data.  
+`Python` `Flask` `OSMnx` `Algorithms` `HTML`
 
-### 🔹 [MNIST Image Classifier]()
-Built and trained a neural network on the MNIST handwritten digits dataset for image classification, achieving high accuracy through data normalization and model tuning.  
-**Tech Stack:** Python · TensorFlow · Keras · Deep Learning
+**[Todo List App](https://github.com/SD1604/todo-list-app)**  
+A clean, minimal todo app with task filtering, progress tracking, and dark mode support.  
+`React` `Vite` `CSS`
 
-### 🔹 [Movie Sentiment Analyzer]()
-A Natural Language Processing project that classifies movie reviews as positive or negative using TF-IDF and Logistic Regression.  
-**Tech Stack:** Python · Scikit-learn · NLP · Pandas
+**[Rock Paper Scissors](https://github.com/SD1604/rock-paper-scissors)**  
+Browser-based Rock Paper Scissors game with score tracking and clean UI.  
+`HTML` `CSS` `JavaScript`
 
-### 🔹 [Personal Portfolio Website]()
-Responsive and modern portfolio website built with React and Tailwind CSS.  
-**Tech Stack:** React · Tailwind CSS · JavaScript
-
-### 🔹 [DSA Practice Repository]()
-Collection of 300+ solved DSA problems from LeetCode, GFG, and Striver’s sheet with explanations.  
-**Tech Stack:** C++ · Problem Solving · Algorithms
+**[Friends Script Semantic Visualizer](https://github.com/SD1604/Friends-Show-Project)**  
+Analyzed the Friends TV show scripts using Word2Vec embeddings. Applied PCA to reduce dimensions and plotted character and dialogue relationships in 3D space to explore semantic similarity.  
+`Python` `NLP` `Word2Vec` `Gensim` `PCA` `Matplotlib`
 
 ---
 
-
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=default" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=SD1604&show_icons=true&theme=default&hide_border=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SD1604&layout=compact&theme=default&hide_border=true" height="165">
 </p>
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
-📫 **Email:** [sushantduggal24@gmail.com](mailto:sushantduggal24@gmail.com)  
-💼 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/sushant-duggal-mgamngd7/)  
-
----
-
-⭐ *“Code. Learn. Build. Repeat.”*  
-
-
-<!--
-**SD1604/SD1604** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 sushantduggal24@gmail.com  
+💼 [linkedin.com/in/sushantduggal](https://www.linkedin.com/in/sushant-duggal-mgamngd7/)
