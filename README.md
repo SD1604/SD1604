@@ -25,7 +25,7 @@ Smart route planner using Dijkstra's algorithm on real-world map data.
 A clean, minimal todo app with task filtering, progress tracking, and dark mode support.  
 `React` `Vite` `CSS`
 
-**[Rock Paper Scissors](https://github.com/SD1604/rock-paper-scissors)**  
+**[Rock Paper Scissors](https://github.com/SD1604/Rock-Paper-Scissors-Game)**  
 Browser-based Rock Paper Scissors game with score tracking and clean UI.  
 `HTML` `CSS` `JavaScript`
 
